@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My</string>
+    <string name="title_activity_haberler">HaberlerActivity</string>
+    <string name="title_activity_fotograf_paylasma_aktivite">FotografPaylasmaAktivite</string>
+    <string name="cikis_yap">Çıkış Yap</string>
+    <string name="foto_paylas">Fotoğraf Paylaş</string>
+</resources>
